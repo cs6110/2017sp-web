@@ -1,10 +1,10 @@
-name: CS 4110
-term: Fall 2016
-title: Programming Languages and Logics
+name: CS 6110
+term: Spring 2017
+title: Advanced Programming Languages
 links:
     -
         name: Piazza
-        url: http://piazza.com/cornell/fall2016/cs4110
+        url: https://piazza.com/cornell/spring2017/cs6110
     -
         name: CMS
-        url: https://cms-b.csuglab.cornell.edu/
+        url: https://cms.csuglab.cornell.edu/

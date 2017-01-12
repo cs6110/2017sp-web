@@ -15,18 +15,9 @@ in Gates G01
 [Adrian Sampson][adrian]  
 [asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)
 
-### Teaching Assistants
+### Teaching Assistant
 
-- Seung Hee Han  
-  [sh969@cornell.edu](mailto:sh969@cornell.edu)
-- Andrew Hirsch  
-  [akhirsch@cs.cornell.edu](mailto:akhirsch@cs.cornell.edu)
-- Eric Perdew  
-  [ecp84@cornell.edu](mailto:ecp84@cornell.edu)
-- Sujit Rao  
-  [sr869@cornell.edu](mailto:sr869@cornell.edu)
-- Michael Roberts  
-  [mbr82@cornell.edu](mailto:mbr82@cornell.edu)
+Chin Isradisaikul <chinawat@cs.cornell.edu>
+[chinawat@cs.cornell.edu](mailto:chinawat@cs.cornell.edu)
 
-[piazza]: http://piazza.com/cornell/fall2016/cs4110
-[adrian]: http://adriansampson.net
+[adrian]: http://www.cs.cornell.edu/~asampson/
