@@ -35,13 +35,19 @@ TK what's a good Piazza post
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
 
-## Feedback
-
-Is the course moving too quickly or too slowly? To help calibrate the pace and content, please fill out the [feedback form][fform] early and often.
-
-[fform]: https://sampsyo.wufoo.com/forms/4110-feedback/
-
 # Content
+
+## Textbooks
+
+There are no required textbooks. However, if you find yourself wanting extra background, you these textbooks might be helpful:
+
+* *The Formal Semantics of Programming Languages* by Glynn Winskel.
+* *Types and Programming Languages* by Benjamin C. Pierce.
+
+And here are a couple of good online textbooks that are relevant to the course:
+
+* [*Programming Languages: Application and Interpretation*](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) by Shriram Krishnamurthi.
+* [*Software Foundations*](https://www.cis.upenn.edu/~bcpierce/sf/) by Benjamin C. Pierce.
 
 ## Grading
 
