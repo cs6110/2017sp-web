@@ -28,7 +28,7 @@
     </nav>
   </header>
   <main>
-  <h1>{{#if longtitle}}{{ longtitle }}{{else}}{{ title }}{{/if}}</h1>
+  <h1>{{#if fulltitle}}{{ course.name }}: {{ course.title }}, {{ course.term }}{{else}}{{ title }}{{/if}}</h1>
     {{{ contents }}}
   </main>
   <footer>
