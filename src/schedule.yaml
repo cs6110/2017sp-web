@@ -3,30 +3,40 @@
     topic: Course Overview
 -
     date: January 27
+    topic: λ-calculus
 
 -
     date: January 30
     mon: true
+    topic: λ-calculus encodings
 -
     date: February 1
+    topic: Reduction strategies and eqivalence
 -
     date: February 3
+    topic: Observational equivalence
 
 -
     date: February 6
     mon: true
+    topic: Fixpoints
 -
     date: February 8
+    topic: Well-Founded Induction
 -
     date: February 10
+    topic: Inductive Definitions and Leatst Fixpoints
 
 -
     date: February 13
     mon: true
+    topic: The IMP Language
 -
     date: February 15
+    topic: Semantics via Translation
 -
     date: February 17
+    topic: Adequacy
 
 -
     date: February 20
@@ -35,48 +45,65 @@
     event: No class (February Break)
 -
     date: February 22
+    topic: A Functional Language
 -
     date: February 24
+    topic: Scope
 
 -
     date: February 27
     mon: true
+    topic: State
 -
     date: March 1
+    topic: Continuations
 -
     date: March 3
+    topic: Exceptions and First-class Continuations
 
 -
     date: March 6
     mon: true
+    topic: Axiomatic Semantics and Hoare Logic
 -
     date: March 8
+    topic: Kleene Algebra with Tests
 -
     date: March 10
+    topic: Predicate Transformers
 
 -
     date: March 13
     mon: true
+    topic: Denotational Semantics
 -
     date: March 15
+    topic: CPOs
 -
     date: March 17
+    topic: Domain Constructions
 
 -
     date: March 20
     mon: true
+    topic: Denotational Semantics for FL
 -
     date: March 22
+    topic: Preliminary Exam
 -
     date: March 24
+    topic: Scott's D-∞ construction
 
 -
     date: March 27
     mon: true
+    topic: Prelim Debrief
 -
     date: March 29
+    topic: Typed λ-calculus
 -
     date: March 31
+    topic: Type Soundness
 
 -
     date: April 3
@@ -95,37 +122,51 @@
 -
     date: April 10
     mon: true
+    topic: Products, Sums, and Datatypes
 -
     date: April 12
+    topic: Products, Sums, and Datatypes, cont'd
 -
     date: April 14
+    topic: Strong Normalization
 
 -
     date: April 17
     mon: true
+    topic: Type Inference
 -
     date: April 19
+    topic: Polymorphic λ-calculus
 -
     date: April 21
+    topic: Subtype Polymorphism
 
 -
     date: April 24
     mon: true
+    topic: Recursive Types
 -
     date: April 26
+    topic: Equirecursive Equality
 -
     date: April 28
+    topic: Existential Types
 
 -
     date: May 1
     mon: true
+    topic: CCS
 -
     date: May 3
+    topic: CCS cont'd
 -
     date: May 5
+    topic: π-calculus
 
 -
     date: May 8
     mon: true
+    topic: Domain-Specific Languages
 -
     date: May 10
+    topic: Probabilistic Semantics
