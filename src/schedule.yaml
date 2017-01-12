@@ -31,6 +31,8 @@
 -
     date: February 20
     mon: true
+    canceled: true
+    event: No class (February Break)
 -
     date: February 22
 -
@@ -79,10 +81,16 @@
 -
     date: April 3
     mon: true
+    canceled: true
+    event: No class (Spring Break)
 -
     date: April 5
+    canceled: true
+    event: No class (Spring Break)
 -
     date: April 7
+    canceled: true
+    event: No class (Spring Break)
 
 -
     date: April 10
