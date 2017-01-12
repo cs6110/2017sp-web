@@ -13,7 +13,7 @@ table.schedule
         th Assignments
   tbody
     each day in schedule
-      tr(class=day.canceled ? "canceled" : "")
+      tr(class=day.canceled ? "canceled" : "" class=day.mon ? "mon" : "")
         td #{day.date}
         if day.event
           td.event(colspan=3) #{day.event}

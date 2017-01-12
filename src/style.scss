@@ -110,4 +110,8 @@ table {
   .event {
     font-weight: bold;
   }
+  .mon > td {
+    // Spacing between weeks.
+    padding-top: 0.6rem;
+  }
 }
