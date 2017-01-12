@@ -17,7 +17,7 @@ in {{ course.room }}
 
 ### Teaching Assistant
 
-Chin Isradisaikul <chinawat@cs.cornell.edu>
+Chin Isradisaikul  
 [chinawat@cs.cornell.edu](mailto:chinawat@cs.cornell.edu)
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
