@@ -3,16 +3,21 @@ title: Syllabus
 layout: layout.html
 order: 2
 ---
-TK description
+
+CS 6110 is Cornell's graduate class on programming languages. It represents what we think *every* PhD student should know about the theory and practice underlying computation. It blends formal foundations with real-world applications and connections to other fields in computer science.
 
 # TL;DR
 
-- All course communication will happen on [Piazza][]---please sign up and turn on email notifications.
-- Homework will go through [CMS][].
-- TK homework and exam counts, formats, expectations
-- TK late policy
+- All course communication will happen on [Piazza][]. Please sign up and turn on email notifications.
+- Homework and grading happens on [CMS][].
+- There will be one prelim, one final, and five two-week homework assignments.
+  - You can work in pairs on homework if you like, in which case you'll write one submission together.
+  - Expect the homework to make you try things we haven't done in class. Exams will be less expansive.
+  - Grading for both homework assignments and exams will have a high standard for precision---because this class is about formalism, little details and mistakes matter more than they do in other classes.
+- Your lowest homework score will be dropped, and you have 3 slip days you can allocate throughout the semester.
 
 [piazza]: https://piazza.com/cornell/spring2017/cs6110
+[cms]: https://cmsx.cs.cornell.edu/
 
 # Organization
 
@@ -29,8 +34,6 @@ TK what's a good Piazza post
 ## Assignments: CMS
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
-
-[cms]: https://cms-b.csuglab.cornell.edu/
 
 ## Feedback
 
