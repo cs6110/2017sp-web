@@ -12,12 +12,13 @@ in {{ course.room }}
 
 ### Instructor
 
-[Adrian Sampson][adrian]  
+[**Adrian Sampson**][adrian]  
 [asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)
 
 ### Teaching Assistant
 
-Chin Isradisaikul  
+[**Chin Isradisaikul**][chin]  
 [chinawat@cs.cornell.edu](mailto:chinawat@cs.cornell.edu)
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
+[chin]: http://www.cs.cornell.edu/~chinawat/
