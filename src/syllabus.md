@@ -3,7 +3,16 @@ title: Syllabus
 layout: layout.html
 order: 2
 ---
-CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride through the beauty and glory of programming languages, the theory behind them, and their implementation. It will not be easy, but you will achieve a clear and rigorous understanding of computing: a rare enlightenment that will give you great power.
+TK description
+
+# TL;DR
+
+- All course communication will happen on [Piazza][]---please sign up and turn on email notifications.
+- Homework will go through [CMS][].
+- TK homework and exam counts, formats, expectations
+- TK late policy
+
+[piazza]: https://piazza.com/cornell/spring2017/cs6110
 
 # Organization
 
@@ -11,11 +20,11 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 We will use a [Piazza][] forum for announcements and communication about the course. Please [sign up for the Piazza instance][piazza]. The course staff will post important updates there that you really want to know about! Check often and enable email notifications.
 
-[piazza]: http://piazza.com/cornell/fall2016/cs4110
+You can also ask questions---about lectures, homework, or anything else---on Piazza. The course staff will respond as quickly as possible. It's the most efficient way to get help.
 
-You can also ask questions---about lectures, homework, or anything else---on Piazza. The course staff will respond as quickly as possible. It's the most efficient way to get help. If you email the staff directly, we will probably ask you to go through Piazza instead so everyone can benefit from the answer. (Please do email, though, if you have a question that needs to be kept private.)
+If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, please ask via email.
 
-If you can answer a question yourself, please do! Be careful not to post answers (or parts of answers) to any homework or exam questions. If you're not sure whether something is OK to post, please ask via email.
+TK what's a good Piazza post
 
 ## Assignments: CMS
 
