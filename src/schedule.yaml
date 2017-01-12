@@ -12,6 +12,7 @@
 -
     date: February 1
     topic: Reduction strategies and Equivalence
+    assignments: A1 out
 -
     date: February 3
     topic: Observational Equivalence
@@ -34,6 +35,7 @@
 -
     date: February 15
     topic: Semantics via Translation
+    assignments: A1 due; A2 out
 -
     date: February 17
     topic: Adequacy
@@ -57,6 +59,7 @@
 -
     date: March 1
     topic: Continuations
+    assignments: A2 due; A3 out
 -
     date: March 3
     topic: Exceptions and First-class Continuations
@@ -79,6 +82,7 @@
 -
     date: March 15
     topic: CPOs
+    assignments: A3 due; A4 out
 -
     date: March 17
     topic: Domain Constructions
@@ -89,7 +93,7 @@
     topic: Denotational Semantics for FL
 -
     date: March 22
-    topic: Preliminary Exam
+    event: Preliminary Exam
 -
     date: March 24
     topic: Scott's D-∞ construction
@@ -97,10 +101,10 @@
 -
     date: March 27
     mon: true
-    topic: Prelim Debrief
 -
     date: March 29
     topic: Typed λ-calculus
+    assignments: A4 due
 -
     date: March 31
     topic: Type Soundness
@@ -126,6 +130,7 @@
 -
     date: April 12
     topic: Products, Sums, and Datatypes, cont'd
+    assignments: A5 out
 -
     date: April 14
     topic: Strong Normalization
@@ -148,6 +153,7 @@
 -
     date: April 26
     topic: Equirecursive Equality
+    assignments: A5 due; A6 out
 -
     date: April 28
     topic: Existential Types
@@ -170,3 +176,4 @@
 -
     date: May 10
     topic: Probabilistic Semantics
+    assignments: A6 out
