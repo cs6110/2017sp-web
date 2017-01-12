@@ -19,8 +19,8 @@ node_modules: package.json
 # Deployment.
 
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
-	--delete -e ssh
-DEST := fox:/cucs/web/cs/Courses/cs4110/2016fa
+	--delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r
+DEST := cslinux:/courses/cs6110/2017sp
 
 deploy: clean build
 	rsync $(RSYNCARGS) build/ $(DEST)

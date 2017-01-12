@@ -47,13 +47,13 @@ Is the course moving too quickly or too slowly? To help calibrate the pace and c
 
 Final grades will be assigned with these proportions:
 
-* Problem sets: 45%
-* Preliminary exams: 30%
-* Final exam: 25%
+* Problem sets: 35%
+* Preliminary exam: 30%
+* Final exam: 35%
 
 ## Problem Sets
 
-Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
+Problem sets are due on Wednesdays at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
 
 [schedule]: {{ relative "/schedule.html" }}
 
