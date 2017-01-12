@@ -8,24 +8,24 @@
 -
     date: January 30
     mon: true
-    topic: λ-calculus encodings
+    topic: λ-calculus Encodings
 -
     date: February 1
-    topic: Reduction strategies and eqivalence
+    topic: Reduction strategies and Equivalence
 -
     date: February 3
-    topic: Observational equivalence
+    topic: Observational Equivalence
 
 -
     date: February 6
     mon: true
-    topic: Fixpoints
+    topic: Fixed Points
 -
     date: February 8
     topic: Well-Founded Induction
 -
     date: February 10
-    topic: Inductive Definitions and Leatst Fixpoints
+    topic: Inductive Definitions and Latest Fixed Points
 
 -
     date: February 13
