@@ -10,6 +10,7 @@ body {
 }
 
 header {
+  width: 100%;
   padding: 0.5rem 1rem;
   nav {
     display: block;
@@ -21,6 +22,18 @@ header {
 main {
   margin: auto;
   max-width: $max-width;
+}
+
+// On wide pages, do not constrain.
+body.wide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  main {
+    margin: 1rem;
+    max-width: none;
+  }
 }
 
 
@@ -75,6 +88,7 @@ footer {
   }
 }
 
+
 // Schedule table.
 table {
   border-collapse: collapse;
@@ -85,6 +99,7 @@ table {
     padding: 0 0.5rem;
   }
 }
+
 
 // Course schedule.
 .schedule {
