@@ -1,0 +1,267 @@
+-
+    date: August 24
+    topic: Course Overview
+    links:
+        slides: slides01.pdf
+-
+    date: August 26
+    topic: Introduction to Semantics
+    links:
+        slides: slides02.pdf
+        notes: lecture02.pdf
+-
+    date: August 29
+    topic: Inductive Definitions and Proofs
+    links:
+        slides: slides03.pdf
+        notes: lecture03.pdf
+-
+    date: August 31
+    topic: Inductive Proof and Large-Step Semantics
+    links:
+        slides: slides04.pdf
+        notes: lecture04.pdf
+    assignments: A1 out
+-
+    date: September 2
+    topic: The IMP Language
+    links:
+        slides: slides05.pdf
+        notes: lecture05.pdf
+-
+    date: September 5
+    event: No class (Labor Day)
+    canceled: true
+-
+    date: September 7
+    topic: IMP Properties
+    assignments: A1 due; A2 out
+    links:
+        slides: slides06.pdf
+        notes: lecture06.pdf
+        scribbles: scribbles06.pdf
+-
+    date: September 9
+    topic: Denotational Semantics
+    links:
+        slides: slides07.pdf
+        notes: lecture07.pdf
+-
+    date: September 12
+    topic: Denotational Semantics Examples
+    links:
+        slides: slides08.pdf
+        notes: lecture08.pdf
+        slides+: scribbleslides08.pdf
+        scribbles: scribbles08.pdf
+-
+    date: September 14
+    topic: Axiomatic Semantics
+    assignments: A2 due; A3 out
+    links:
+        slides: slides09.pdf
+        notes: lecture09.pdf
+-
+    date: September 16
+    topic: Hoare Logic
+    links:
+        slides: slides10.pdf
+        notes: lecture10.pdf
+        scribbles: scribbles10.pdf
+-
+    date: September 19
+    topic: Hoare Logic Examples
+    links:
+        slides: slides11.pdf
+        notes: lecture11.pdf
+        scribbles: scribbles11.pdf
+-
+    date: September 21
+    topic: Weakest Preconditions
+    assignments: A3 due; A4 out
+    links:
+        slides: slides12.pdf
+        notes: lecture12.pdf
+-
+    date: September 23
+    topic: Lambda Calculus
+    links:
+        notes: lecture13.pdf
+        scribbles: scribbles13.pdf
+-
+    date: September 26
+    topic: More Lambda Calculus and Substitution
+    links:
+        slides: slides14.pdf
+        notes: lecture14.pdf
+-
+    date: September 28
+    assignments: A4 due
+    topic: Lambda Calculus Encodings
+    links:
+        slides: slides15.pdf
+        notes: lecture15.pdf
+        slides+: scribbleslides15.pdf
+-
+    date: September 30
+    topic: Programming in the Lambda Calculus
+    links:
+        slides: slides16.pdf
+        notes: lecture16.pdf
+-
+    date: October 3
+    topic: Definitional Translation and Continuations
+    links:
+        slides: slides17.pdf
+        notes: lecture17.pdf
+-
+    date: October 5
+    event: Preliminary Exam I
+-
+    date: October 7
+    topic: Exam Debrief
+-
+    date: October 10
+    event: No class (Fall Break)
+    canceled: true
+-
+    date: October 12
+    assignments: A5 out
+    topic: Simple Types
+    links:
+        notes: lecture18.pdf
+        scribbles: scribbles18.pdf
+-
+    date: October 14
+    topic: Proving Type Soundness
+    links:
+        slides: slides19.pdf
+        notes: lecture19.pdf
+        scribbles: scribbles19.pdf
+-
+    date: October 17
+    topic: Normalization
+    links:
+        slides: slides20.pdf
+        notes: lecture20.pdf
+        slides+: scribbleslides20.pdf
+        scribbles: scribbles20.pdf
+-
+    date: October 19
+    assignments: A5 due; A6 out
+    topic: Advanced Types
+    links:
+        slides: slides21.pdf
+        notes: lecture21.pdf
+-
+    date: October 21
+    topic: Polymorphism
+    links:
+        slides: slides22.pdf
+        notes: lecture22.pdf
+-
+    date: October 24
+    event: 'Guest lecture: Yaron Minsky, Jane Street. "GADTs for Speed Demons"'
+-
+    date: October 26
+    assignments: A6 due; A7 out
+    topic: Type Inference
+    links:
+        slides: slides23.pdf
+        notes: lecture23.pdf
+        slides+: scribbleslides23.pdf
+-
+    date: October 28
+    topic: Compiling with Continuations
+    links:
+        slides: slides24.pdf
+        notes: lecture24.pdf
+        slides+: scribbleslides24.pdf
+-
+    date: October 31
+    topic: Records and Subtyping
+    links:
+        slides: slides25.pdf
+        notes: lecture25.pdf
+        slides+: scribbleslides25.pdf
+-
+    date: November 2
+    topic: Existential Types
+    assignments: A7 due; A8 out
+    links:
+        slides: slides26.pdf
+        notes: lecture26.pdf
+-
+    date: November 4
+    topic: Recursive Types
+    links:
+        slides: slides27.pdf
+        notes: lecture27.pdf
+-
+    date: November 7
+    topic: Propositions as Types
+    links:
+        slides: slides28.pdf
+        notes: lecture28.pdf
+-
+    date: November 9
+    topic: Featherweight Java
+    assignments: A8 due
+    links:
+        slides: slides29.pdf
+        notes: lecture29.pdf
+        slides+: scribbleslides29.pdf
+-
+    date: November 11
+    topic: Featherweight Java Properties
+    links:
+        slides: slides30.pdf
+        notes: lecture30.pdf
+        slides+: scribbleslides30.pdf
+        scribbles: scribbles30.pdf
+-
+    date: November 14
+    topic: Concurrency and Parallelism
+    links:
+        slides: slides31.pdf
+        code: code31
+-
+    date: November 16
+    event: Preliminary Exam II
+-
+    date: November 18
+    topic: Exam Debrief
+-
+    date: November 21
+    topic: Shared-Memory Parallelism
+    links:
+        slides: slides32.pdf
+        code: code32/scviol.c
+-
+    date: November 23
+    event: No class (Thanksgiving)
+    canceled: true
+-
+    date: November 25
+    event: No class (Thanksgiving)
+    canceled: true
+-
+    date: November 28
+    assignments: A9 out
+    topic: Probabilistic Programming
+    links:
+        slides: slides33.pdf
+        notes: http://adriansampson.net/doc/ppl.html
+        code: https://github.com/sampsyo/ppl-intro/tree/master/code
+-
+    date: November 30
+    topic: Approximate Computing
+    links:
+        slides: slides34.pdf
+        paper: http://www.cs.cornell.edu/~asampson/media/papers/enerj-pldi2011.pdf
+-
+    date: December 2
+    topic: Victory Lap
+    assignments: A9 due
+    links:
+        slides: slides35.pdf
