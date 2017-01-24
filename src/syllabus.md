@@ -10,13 +10,14 @@ CS 6110 is Cornell's graduate class on programming languages. It represents what
 
 - All course communication will happen on [Piazza][]. Please sign up and turn on email notifications.
 - Homework and grading happens on [CMS][].
-- There will be one prelim, one final, and five two-week homework assignments.
+- There will be five two-week homework assignments.
   - You can work in pairs on homework if you like, in which case you'll write one submission together.
-  - The preliminary exam is a "take-home" exam. You'll have 24 hours to take the exam anywhere in the week of March 27 to 31.
+  - Your lowest homework score will be dropped, and you have 3 slip days you can allocate throughout the semester.
+- There will be one prelim and one final exam.
+  - The preliminary exam is a "take-home" exam. You'll have 24 hours to take the exam anywhere in the week just before spring break.
   - The final exam will use the course's allocated [final slot][finals].
-  - Expect the homework to make you try things we haven't done in class. Exams will be less expansive.
-  - Grading for both homework assignments and exams will have a high standard for precision---because this class is about formalism, little details and mistakes matter more than they do in other classes.
-- Your lowest homework score will be dropped, and you have 3 slip days you can allocate throughout the semester.
+- Expect the homework to make you try things we haven't done in class. Exams will be less expansive.
+- Grading for both homework assignments and exams will have a high standard for precision---because this class is about formalism, little details and mistakes matter more than they do in other classes.
 
 [piazza]: https://piazza.com/cornell/spring2017/cs6110
 [cms]: https://cmsx.cs.cornell.edu/
@@ -106,11 +107,12 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 * *Do* ask someone if you're confused about what the assignment is asking for.
 * *Definitely* ask the course staff if you're not sure whether or not something is OK.
 
-Here's the policy for **exams**: You may not give assistance to anyone or receive assistance of any kind from anyone at all during an exam. All exams are closed book.
+Here's the policy for **exams**: You may not give assistance to anyone or receive assistance of any kind from anyone at all during an exam.
+You can use notes from the class on the take-home prelim but not on the final.
 
 You may not give any hints or post any code that might be part of a solution on Piazza.
 
-If you are unsure about what is permissible and what is not, *please ask*!
+If you are unsure about what is permissible and what is not, please ask!
 
 ## Respect in Class
 
