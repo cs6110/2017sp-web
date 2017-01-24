@@ -31,9 +31,14 @@ We will use a [Piazza][] forum for announcements and communication about the cou
 
 You can also ask questions---about lectures, homework, or anything else---on Piazza. The course staff will respond as quickly as possible. It's the most efficient way to get help.
 
-If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, please ask via email.
+If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, you can use the "private" flag to make it visible to the instructors only.
 
-TK what's a good Piazza post
+A good Piazza post asks a specific question. Here are some examples of bad Piazza posts:
+
+* "Tell me more about broad topic X."
+* "Does anyone have any hints for problem Y?"
+
+If you need help with a homework problem, for example, be sure to include what you've tried already, exactly where you're stuck, and what you're currently thinking about how to proceed. If you just ask for help without any evidence of effort, we'll punt the question back to you for more details.
 
 ## Assignments: CMS
 
@@ -51,7 +56,7 @@ There are no required textbooks. However, if you find yourself wanting extra bac
 And here are a couple of good online textbooks that are relevant to the course:
 
 * [*Programming Languages: Application and Interpretation*](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) by Shriram Krishnamurthi.
-* [*Software Foundations*](https://www.cis.upenn.edu/~bcpierce/sf/) by Benjamin C. Pierce.
+* [*Software Foundations*](https://www.cis.upenn.edu/~bcpierce/sf/) by Benjamin C. Pierce and a supporting cast.
 
 ## Grading
 
