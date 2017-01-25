@@ -79,7 +79,7 @@ We strongly encourage you to use TeX, but you can also write up answers by hand.
 
 ### Timeliness
 
-You have **three slip days** that you can allocate to problem sets throughout the semester. You can use at most **two slip days per assignment**. When you use a slip day, it lets you turn in the assignment 24 hours late without penalty.
+You have **three slip days** that you can allocate to problem sets throughout the semester. When you use a slip day, it lets you turn in the assignment 24 hours late without penalty.
 
 Aside from that, late work will not be accepted and will count for zero points.
 
