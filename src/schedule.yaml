@@ -1,6 +1,9 @@
 -
     date: January 25
     topic: Course Overview
+    links:
+        slides: slides01.pdf
+        notes: lec01.pdf
 -
     date: January 27
     topic: λ-calculus
