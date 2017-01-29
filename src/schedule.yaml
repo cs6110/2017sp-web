@@ -42,7 +42,7 @@
 -
     date: February 13
     mon: true
-    topic: Inductive Definitions and Latest Fixed Points
+    topic: Inductive Definitions and Least Fixed Points
 -
     date: February 15
     topic: The IMP Language
@@ -106,15 +106,15 @@
 -
     date: March 22
     assignments: A3 due
-    topic: Scott's D-∞ construction
+    # topic: Scott's D-∞ construction
+    topic: Typed λ-calculus
 -
     date: March 24
-    topic: Typed λ-calculus
+    topic: Type Soundness
 
 -
     date: March 27
     mon: true
-    topic: Type Soundness
     assignments: Prelim out
 -
     date: March 29
