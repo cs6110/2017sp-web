@@ -20,9 +20,13 @@
     date: February 1
     topic: λ-calculus Encodings
     assignments: A1 out
+    links:
+        notes: lec03.pdf
 -
     date: February 3
     topic: Reduction strategies and Equivalence
+    links:
+        notes: lec04.pdf
 
 -
     date: February 6
