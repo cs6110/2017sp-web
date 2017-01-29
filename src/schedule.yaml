@@ -13,37 +13,39 @@
 -
     date: January 30
     mon: true
-    topic: λ-calculus Encodings
+    topic: More λ-calculus
+    links:
+        same notes: lec02.pdf
 -
     date: February 1
-    topic: Reduction strategies and Equivalence
+    topic: λ-calculus Encodings
     assignments: A1 out
 -
     date: February 3
-    topic: Observational Equivalence
+    topic: Reduction strategies and Equivalence
 
 -
     date: February 6
     mon: true
-    topic: Fixed Points
+    topic: Observational Equivalence
 -
     date: February 8
-    topic: Well-Founded Induction
+    topic: Fixed Points
 -
     date: February 10
-    topic: Inductive Definitions and Latest Fixed Points
+    topic: Well-Founded Induction
 
 -
     date: February 13
     mon: true
-    topic: The IMP Language
+    topic: Inductive Definitions and Latest Fixed Points
 -
     date: February 15
-    topic: Semantics via Translation
+    topic: The IMP Language
     assignments: A1 due
 -
     date: February 17
-    topic: Adequacy
+    topic: Semantics via Translation
 
 -
     date: February 20
@@ -52,31 +54,32 @@
     event: No class (February Break)
 -
     date: February 22
-    topic: A Functional Language
+    topic: Adequacy
     assignments: A2 out
 -
     date: February 24
-    topic: Scope
+    topic: A Functional Language
 
 -
     date: February 27
     mon: true
-    topic: State
+    topic: Scope
 -
     date: March 1
-    topic: Continuations
+    topic: State
 -
     date: March 3
-    topic: Exceptions and First-class Continuations
+    topic: Continuations
 
 -
     date: March 6
     mon: true
-    topic: Axiomatic Semantics and Hoare Logic
+    topic: Exceptions and First-class Continuations
 -
     date: March 8
     assignments: A2 due, A3 out
-    topic: Kleene Algebra with Tests
+    topic: Axiomatic Semantics and Hoare Logic
+    # topic: Kleene Algebra with Tests
 -
     date: March 10
     topic: Predicate Transformers
