@@ -36,17 +36,23 @@
         notes: lec05.pdf
 -
     date: February 8
+    topic: Well-Founded Induction and Structural Induction
+    links:
+        notes: lec06.pdf
 -
     date: February 10
-    topic: Well-Founded Induction
+    topic: Inductive Definitions and Least Fixed Points
+    links:
+        notes: lec07.pdf
 
 -
     date: February 13
     mon: true
-    topic: Inductive Definitions and Least Fixed Points
+    topic: The IMP Language
+    links:
+        notes: lec08.pdf
 -
     date: February 15
-    topic: The IMP Language
     assignments: A1 due
 -
     date: February 17
