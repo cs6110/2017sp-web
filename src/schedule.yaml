@@ -54,10 +54,14 @@
 -
     date: February 15
     assignments: A1 due
-    topic: Semantics via Translation
+    topic: Evaluation Contexts and Semantics via Translation
+    links:
+        notes: lec09.pdf
 -
     date: February 17
     topic: Adequacy
+    links:
+        notes: lec10.pdf
 
 -
     date: February 20
