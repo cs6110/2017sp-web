@@ -31,10 +31,11 @@
 -
     date: February 6
     mon: true
-    topic: Observational Equivalence
+    topic: Fixed Points
+    links:
+        notes: lec05.pdf
 -
     date: February 8
-    topic: Fixed Points
 -
     date: February 10
     topic: Well-Founded Induction
