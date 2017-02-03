@@ -54,9 +54,10 @@
 -
     date: February 15
     assignments: A1 due
+    topic: Semantics via Translation
 -
     date: February 17
-    topic: Semantics via Translation
+    topic: Adequacy
 
 -
     date: February 20
@@ -65,59 +66,56 @@
     event: No class (February Break)
 -
     date: February 22
-    topic: Adequacy
     assignments: A2 out
+    topic: A Functional Language
 -
     date: February 24
-    topic: A Functional Language
+    topic: Scope
 
 -
     date: February 27
     mon: true
-    topic: Scope
--
-    date: March 1
     topic: State
 -
-    date: March 3
+    date: March 1
     topic: Continuations
+-
+    date: March 3
+    topic: Exceptions and First-class Continuations
 
 -
     date: March 6
     mon: true
-    topic: Exceptions and First-class Continuations
+    topic: Axiomatic Semantics and Hoare Logic
 -
     date: March 8
     assignments: A2 due, A3 out
-    topic: Axiomatic Semantics and Hoare Logic
-    # topic: Kleene Algebra with Tests
+    topic: Predicate Transformers
 -
     date: March 10
-    topic: Predicate Transformers
+    topic: Denotational Semantics
 
 -
     date: March 13
     mon: true
-    topic: Denotational Semantics
--
-    date: March 15
     topic: CPOs
 -
-    date: March 17
+    date: March 15
     topic: Domain Constructions
+-
+    date: March 17
+    topic: Denotational Semantics for FL
 
 -
     date: March 20
     mon: true
-    topic: Denotational Semantics for FL
+    topic: Typed λ-calculus
 -
     date: March 22
     assignments: A3 due
-    # topic: Scott's D-∞ construction
-    topic: Typed λ-calculus
+    topic: Type Soundness
 -
     date: March 24
-    topic: Type Soundness
 
 -
     date: March 27
