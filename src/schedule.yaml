@@ -54,14 +54,15 @@
 -
     date: February 15
     assignments: A1 due
+    topic: More IMP and Big-Step Operational Semantics
+    links:
+        same notes: lec08.pdf
+-
+    date: February 17
     topic: Evaluation Contexts and Semantics via Translation
     links:
         notes: lec09.pdf
--
-    date: February 17
-    topic: Adequacy
-    links:
-        notes: lec10.pdf
+        proof: lec10.pdf
 
 -
     date: February 20
