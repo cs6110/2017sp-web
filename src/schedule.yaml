@@ -59,10 +59,9 @@
         same notes: lec08.pdf
 -
     date: February 17
-    topic: Evaluation Contexts and Semantics via Translation
+    topic: Big-Step Semantics and Evaluation Contexts
     links:
         notes: lec09.pdf
-        proof: lec10.pdf
 
 -
     date: February 20
@@ -72,7 +71,10 @@
 -
     date: February 22
     assignments: A2 out
-    topic: A Functional Language
+    topic: Semantics via Translation and a Functional Language
+    links:
+        same notes: lec09.pdf
+        proof: lec10.pdf
 -
     date: February 24
     topic: Scope
