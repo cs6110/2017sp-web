@@ -85,7 +85,7 @@ Aside from that, late work will not be accepted and will count for zero points.
 
 ## Exams
 
-There will be a take-home prelim a non-take-home final exam. You'll be able to take the prelim anywhere within a one-week period just before spring break; see the [course schedule][schedule]. The final will take place in the ordinary [final slot][finals] for the class, which will apparently be decided on February 14.
+There will be a take-home prelim a non-take-home final exam. You'll be able to take the prelim anywhere within a one-week period just before spring break; see the [course schedule][schedule]. The final will take place in the ordinary [final slot][finals] for the class, which, this semester, is **Tuesday, May 23 at 9:00am**.
 
 Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
 
