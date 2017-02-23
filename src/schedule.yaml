@@ -79,11 +79,15 @@
 -
     date: February 24
     topic: Scope
+    links:
+        notes: lec12.pdf
 
 -
     date: February 27
     mon: true
     topic: State
+    links:
+        notes: lec13.pdf
 -
     date: March 1
     topic: Continuations
