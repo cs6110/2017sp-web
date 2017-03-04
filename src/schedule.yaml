@@ -95,43 +95,44 @@
         notes: lec14.pdf
 -
     date: March 3
-    topic: Exceptions and First-class Continuations
-    links:
-        notes: lec15.pdf
+    topic: Proof Writing, with special guest Andrew Hirsch
 
 -
     date: March 6
     mon: true
-    topic: Axiomatic Semantics and Hoare Logic
+    topic: Exceptions and First-class Continuations
+    links:
+        notes: lec15.pdf
 -
     date: March 8
     assignments: A2 due, A3 out
-    topic: Predicate Transformers
+    topic: Axiomatic Semantics and Hoare Logic
 -
     date: March 10
-    topic: Denotational Semantics
+    topic: Predicate Transformers
 
 -
     date: March 13
     mon: true
-    topic: CPOs
+    topic: Denotational Semantics
 -
     date: March 15
-    topic: Domain Constructions
+    topic: CPOs
 -
     date: March 17
-    topic: Denotational Semantics for FL
+    topic: Domain Constructions
 
 -
     date: March 20
     mon: true
-    topic: Typed λ-calculus
+    topic: Denotational Semantics for FL
 -
     date: March 22
     assignments: A3 due
-    topic: Type Soundness
+    topic: Typed λ-calculus
 -
     date: March 24
+    topic: Type Soundness
 
 -
     date: March 27
