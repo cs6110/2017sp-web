@@ -107,9 +107,13 @@
     date: March 8
     assignments: A2 due, A3 out
     topic: Axiomatic Semantics and Hoare Logic
+    links:
+        notes: lec16.pdf
 -
     date: March 10
     topic: Predicate Transformers
+    links:
+        notes: lec17.pdf
 
 -
     date: March 13
