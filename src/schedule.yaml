@@ -100,15 +100,16 @@
 -
     date: March 6
     mon: true
-    topic: Exceptions and First-class Continuations
+    topic: First-Class Continuations and Axiomatic Semantics
     links:
         notes: lec15.pdf
+        more: lec16.pdf
 -
     date: March 8
     assignments: A2 due, A3 out
     topic: Axiomatic Semantics and Hoare Logic
     links:
-        notes: lec16.pdf
+        same notes: lec16.pdf
 -
     date: March 10
     topic: Predicate Transformers
