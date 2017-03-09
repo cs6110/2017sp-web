@@ -124,34 +124,35 @@
         notes: lec18.pdf
 -
     date: March 15
-    topic: CPOs
+    topic: Typed λ-calculus
 -
     date: March 17
-    topic: Domain Constructions
+    topic: Type Soundness
 
 -
     date: March 20
     mon: true
-    topic: Denotational Semantics for FL
+    topic: Products, Sums, and Datatypes
 -
     date: March 22
     assignments: A3 due
-    topic: Typed λ-calculus
+    topic: Products, Sums, and Datatypes, cont'd
 -
     date: March 24
-    topic: Type Soundness
+    topic: Strong Normalization
 
 -
     date: March 27
     mon: true
     assignments: Prelim out
-    topic: Products, Sums, and Datatypes
+    topic: Type Inference
 -
     date: March 29
-    topic: Products, Sums, and Datatypes, cont'd
+    topic: Polymorphic λ-calculus
 -
     date: March 31
     event: Preliminary Exam Due
+    topic: Subtype Polymorphism
 
 -
     date: April 3
@@ -170,30 +171,26 @@
 -
     date: April 10
     mon: true
-    topic: Strong Normalization
+    topic: Existential Types
 -
     date: April 12
     assignments: A4 out
-    topic: Type Inference
+    topic: Recursive Types
 -
     date: April 14
-    topic: Polymorphic λ-calculus
+    topic: Equirecursive Equality
 
 -
     date: April 17
     mon: true
-    topic: Subtype Polymorphism
 -
     date: April 19
-    topic: Existential Types
 -
     date: April 21
-    topic: Recursive Types
 
 -
     date: April 24
     mon: true
-    topic: Equirecursive Equality
 -
     date: April 26
     assignments: A4 due; A5 out
