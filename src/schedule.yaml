@@ -136,7 +136,7 @@
 -
     date: March 22
     assignments: A3 due
-    topic: Products, Sums, and Datatypes, cont'd
+    topic: More Datatypes
 -
     date: March 24
     topic: Strong Normalization
@@ -152,7 +152,6 @@
 -
     date: March 31
     event: Preliminary Exam Due
-    topic: Subtype Polymorphism
 
 -
     date: April 3
@@ -171,18 +170,19 @@
 -
     date: April 10
     mon: true
-    topic: Existential Types
+    topic: Subtyping
 -
     date: April 12
     assignments: A4 out
-    topic: Recursive Types
+    topic: Existential Types
 -
     date: April 14
-    topic: Equirecursive Equality
+    topic: Recursive Types
 
 -
     date: April 17
     mon: true
+    topic: Propositions as Types
 -
     date: April 19
 -
