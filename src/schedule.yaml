@@ -120,6 +120,8 @@
     date: March 13
     mon: true
     topic: Denotational Semantics
+    links:
+        notes: lec18.pdf
 -
     date: March 15
     topic: CPOs
