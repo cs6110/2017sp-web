@@ -125,30 +125,44 @@
 -
     date: March 15
     topic: Typed λ-calculus
+    links:
+        notes: lec19.pdf
 -
     date: March 17
     topic: Type Soundness
+    links:
+        notes: lec20.pdf
 
 -
     date: March 20
     mon: true
     topic: Products, Sums, and Datatypes
+    links:
+        notes: lec21.pdf
 -
     date: March 22
     assignments: A3 due
     topic: More Datatypes
+    links:
+        same notes: lec21.pdf
 -
     date: March 24
     topic: Strong Normalization
+    links:
+        notes: lec22.pdf
 
 -
     date: March 27
     mon: true
     assignments: Prelim out
     topic: Type Inference
+    links:
+        notes: lec23.pdf
 -
     date: March 29
     topic: Polymorphic λ-calculus
+    links:
+        notes: lec24.pdf
 -
     date: March 31
     event: Preliminary Exam Due
@@ -171,18 +185,26 @@
     date: April 10
     mon: true
     topic: Subtyping
+    links:
+        notes: lec25.pdf
 -
     date: April 12
     assignments: A4 out
     topic: Existential Types
+    links:
+        notes: lec26.pdf
 -
     date: April 14
     topic: Recursive Types
+    links:
+        notes: lec27.pdf
 
 -
     date: April 17
     mon: true
     topic: Propositions as Types
+    links:
+        notes: lec28.pdf
 -
     date: April 19
 -
