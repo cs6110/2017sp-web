@@ -143,8 +143,10 @@
     date: March 27
     mon: true
     assignments: Prelim out
+    topic: Products, Sums, and Datatypes
 -
     date: March 29
+    topic: Products, Sums, and Datatypes, cont'd
 -
     date: March 31
     event: Preliminary Exam Due
@@ -166,56 +168,49 @@
 -
     date: April 10
     mon: true
-    topic: Products, Sums, and Datatypes
+    topic: Strong Normalization
 -
     date: April 12
-    topic: Products, Sums, and Datatypes, cont'd
     assignments: A4 out
+    topic: Type Inference
 -
     date: April 14
-    topic: Strong Normalization
+    topic: Polymorphic λ-calculus
 
 -
     date: April 17
     mon: true
-    topic: Type Inference
+    topic: Subtype Polymorphism
 -
     date: April 19
-    topic: Polymorphic λ-calculus
+    topic: Existential Types
 -
     date: April 21
-    topic: Subtype Polymorphism
+    topic: Recursive Types
 
 -
     date: April 24
     mon: true
-    topic: Recursive Types
+    topic: Equirecursive Equality
 -
     date: April 26
-    topic: Equirecursive Equality
     assignments: A4 due; A5 out
 -
     date: April 28
-    topic: Existential Types
 
 -
     date: May 1
     mon: true
-    topic: CCS
 -
     date: May 3
-    topic: CCS cont'd
 -
     date: May 5
-    topic: π-calculus
 
 -
     date: May 8
     mon: true
-    topic: Domain-Specific Languages
 -
     date: May 10
-    topic: Probabilistic Semantics
     assignments: A5 due
 
 -
