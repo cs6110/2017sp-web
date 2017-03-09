@@ -212,10 +212,12 @@
         notes: lec29.pdf
 -
     date: April 21
+    topic: Abstract Interpretation
 
 -
     date: April 24
     mon: true
+    topic: Monads and Categories
 -
     date: April 26
     assignments: A4 due; A5 out
