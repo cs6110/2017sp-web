@@ -140,14 +140,14 @@
 -
     date: March 22
     assignments: A3 due
+    topic: Type Soundness, continued
+    links:
+        same notes: lec20.pdf
+-
+    date: March 24
     topic: Products, Sums, and Datatypes
     links:
         notes: lec21.pdf
--
-    date: March 24
-    topic: More Datatypes
-    links:
-        same notes: lec21.pdf
 
 -
     date: March 27
@@ -158,9 +158,9 @@
         notes: lec22.pdf
 -
     date: March 29
-    topic: Type Inference
+    topic: Strong Normalization, continued
     links:
-        notes: lec23.pdf
+        same notes: lec22.pdf
 -
     date: March 31
     event: Preliminary Exam Due
@@ -182,48 +182,51 @@
 -
     date: April 10
     mon: true
+    topic: Type Inference
+    links:
+        notes: lec23.pdf
+-
+    date: April 12
+    assignments: A4 out
     topic: Polymorphic λ-calculus
     links:
         notes: lec24.pdf
 -
-    date: April 12
-    assignments: A4 out
+    date: April 14
     topic: Subtyping
     links:
         notes: lec25.pdf
--
-    date: April 14
-    topic: Existential Types
-    links:
-        notes: lec26.pdf
 
 -
     date: April 17
     mon: true
+    topic: Existential Types
+    links:
+        notes: lec26.pdf
+-
+    date: April 19
     topic: Recursive Types
     links:
         notes: lec27.pdf
 -
-    date: April 19
+    date: April 21
     topic: Propositions as Types
     links:
         notes: lec28.pdf
--
-    date: April 21
-    topic: More Propositions as Types
-    links:
-        notes: lec29.pdf
 
 -
     date: April 24
     mon: true
-    topic: Abstract Interpretation
+    topic: More Propositions as Types
+    links:
+        notes: lec29.pdf
 -
     date: April 26
     assignments: A4 due; A5 out
-    topic: Monads and Categories
+    topic: Abstract Interpretation
 -
     date: April 28
+    topic: Monads and Categories
 
 -
     date: May 1
