@@ -223,26 +223,30 @@
 -
     date: April 26
     assignments: A4 due; A5 out
-    topic: Abstract Interpretation
-    links:
-        notes: lec30.pdf
+    topic: Linear Types
 -
     date: April 28
-    topic: Monads and Categories
-    links:
-        notes: lec31.pdf
+    topic: Kinds and System Fѡ
 
 -
     date: May 1
     mon: true
+    topic: Dependent Types
 -
     date: May 3
+    topic: Theorem Provers
 -
     date: May 5
+    topic: Abstract Interpretation
+    links:
+        notes: lec30.pdf
 
 -
     date: May 8
     mon: true
+    topic: Monads and Categories
+    links:
+        notes: lec31.pdf
 -
     date: May 10
     assignments: A5 due
