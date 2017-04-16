@@ -200,12 +200,12 @@
 -
     date: April 17
     mon: true
-    topic: Existential Types
+    topic: Recursive Types
     links:
         notes: lec26.pdf
 -
     date: April 19
-    topic: Recursive Types
+    topic: Existential Types
     links:
         notes: lec27.pdf
 -
