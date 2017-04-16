@@ -18,7 +18,7 @@ table.schedule
         if day.event
           td.event(colspan=3) #{day.event}
         else
-          td #{day.topic}
+          td !{day.topic}
           td
             if day.links
               each file, name in day.links
