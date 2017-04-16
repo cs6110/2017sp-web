@@ -224,9 +224,13 @@
     date: April 26
     assignments: A4 due; A5 out
     topic: Abstract Interpretation
+    links:
+        notes: lec30.pdf
 -
     date: April 28
     topic: Monads and Categories
+    links:
+        notes: lec31.pdf
 
 -
     date: May 1
