@@ -193,63 +193,66 @@
         notes: lec24.pdf
 -
     date: April 14
-    topic: Subtyping
+    topic: More Polymorphism
     links:
-        notes: lec25.pdf
+        same notes: lec24.pdf
 
 -
     date: April 17
     mon: true
+    topic: Subtyping
+    links:
+        notes: lec25.pdf
+-
+    date: April 19
     topic: Recursive Types
     links:
         notes: lec26.pdf
 -
-    date: April 19
+    date: April 21
     topic: Objects and Existential Types
     links:
         notes: lec27.pdf
--
-    date: April 21
-    topic: Propositions as Types
-    links:
-        notes: lec28.pdf
 
 -
     date: April 24
     mon: true
+    topic: Propositions as Types
+    links:
+        notes: lec28.pdf
+-
+    date: April 26
+    assignments: A4 due; A5 out
     topic: More Propositions as Types
     links:
         notes: lec29.pdf
 -
-    date: April 26
-    assignments: A4 due; A5 out
-    topic: Linear Types
--
     date: April 28
-    topic: Kinds
+    topic: Linear Types
 
 -
     date: May 1
     mon: true
-    topic: Dependent Types
+    topic: Kinds
 -
     date: May 3
-    topic: Theorem Provers
+    topic: Dependent Types
 -
     date: May 5
-    topic: Abstract Interpretation
-    links:
-        notes: lec30.pdf
+    topic: Theorem Provers
 
 -
     date: May 8
     mon: true
-    topic: Monads and Categories
+    topic: Abstract Interpretation
     links:
-        notes: lec31.pdf
+        notes: lec30.pdf
 -
     date: May 10
     assignments: A5 due
+    topic: Monads and Categories
+    links:
+        notes: lec31.pdf
 
 -
     date: Tuesday, May 23
