@@ -229,6 +229,8 @@
 -
     date: April 28
     topic: Linear Types
+    links:
+        notes: lec30.pdf
 
 -
     date: May 1
@@ -247,13 +249,13 @@
     mon: true
     topic: Abstract Interpretation
     links:
-        notes: lec30.pdf
+        notes: lecY.pdf
 -
     date: May 10
     assignments: A5 due
     topic: Monads and Categories
     links:
-        notes: lec31.pdf
+        notes: lecZ.pdf
 
 -
     date: Tuesday, May 23
