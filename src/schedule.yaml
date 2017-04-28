@@ -236,6 +236,8 @@
     date: May 1
     mon: true
     topic: Kinds
+    links:
+        notes: lec31.pdf
 -
     date: May 3
     topic: Dependent Types
