@@ -242,6 +242,8 @@
     date: May 3
     topic: Dependent Types
     assignments: A5 proposal due
+    links:
+        notes: lec32.pdf
 -
     date: May 5
     topic: Theorem Provers
