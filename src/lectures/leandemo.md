@@ -1,11 +1,12 @@
 This is an introduction to [Lean][], a dependently typed programming language oriented toward writing and checking proofs.
 Like the more popular [Coq][], Lean is based on the [calculus of inductive constructions][coc], a dependently typed lambda-calculus that is an ideal match for using Curry--Howard to treat types as propositions.
-Unlike Coq, Lean is a pretty new language that has a friendly in-browser interactive interface.
+Unlike Coq, Lean is a pretty new language that has a friendly [in-browser interactive interface][leanweb].
 
 For more detail on Lean, try going through the three in-progress tutorials it comes with: [*An Introduction to Lean*][intro], [*Theorem Proving in Lean*][tpil], and [*Programming in Lean*][pil].
 This shorter tutorial steals shamelessly from those.
 For even more on using proof assistants to study programming languages, I recommend [*Software Foundations*][sf], which has you do 6110-like proofs and other work using Coq.
 
+[leanweb]: https://leanprover.github.io/programming_in_lean/?live
 [coc]: https://en.wikipedia.org/wiki/Calculus_of_constructions
 [pil]: https://leanprover.github.io/programming_in_lean
 [tpil]: https://leanprover.github.io/documentation/
