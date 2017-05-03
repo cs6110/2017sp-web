@@ -247,6 +247,8 @@
 -
     date: May 5
     topic: Theorem Provers
+    links:
+        notes: https://github.com/cs6110/2017sp-web/blob/master/src/lectures/leandemo.md
 
 -
     date: May 8
