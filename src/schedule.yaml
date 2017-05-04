@@ -253,15 +253,11 @@
 -
     date: May 8
     mon: true
-    topic: Abstract Interpretation
-    links:
-        notes: lecY.pdf
+    topic: Gradual typing, with special guest Fabian Muehlboeck
 -
     date: May 10
     assignments: A5 due
-    topic: Monads and Categories
-    links:
-        notes: lecZ.pdf
+    topic: No class
 
 -
     date: Tuesday, May 23
