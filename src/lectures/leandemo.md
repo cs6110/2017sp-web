@@ -130,3 +130,92 @@ To check that, we can give an explicit type to the expression we're proving:
     check proof
 
 Now Lean confirms for us: `proof` has the type `isSquare 16`, so we have proven that theorem! Woohoo!
+
+
+# Dependent List Library
+
+For a more complete example, let's recreate our library of list-related functions from the last lecture.
+
+## Non-Dependent Lists
+
+We can start with a version in Lean that doesn't really use dependent types; this will look more or less like the OCaml equivalent.
+
+    -- An inductive list type *without* lengths
+    -- encoded in the type.
+    inductive IList : Type
+    | nil : IList
+    | cons : int -> IList -> IList
+
+    -- Our little library of operations:
+    -- head, tail, and a nil check.
+    def hd : IList -> int
+    | IList.nil := sorry
+    | (IList.cons n t) := n
+
+    def tl : IList -> IList
+    | IList.nil := sorry
+    | (IList.cons n t) := t
+
+    def isnil : IList -> bool
+    | IList.nil := tt
+    | (IList.cons n t) := ff
+
+    -- Try it out on an example.
+    def somelist := IList.cons 5 IList.nil
+    eval hd somelist
+
+    -- Here's an example that produces an error.
+    eval tl IList.nil
+
+Lean has a special `sorry` expression that lets you apologize for not finishing a definition (often a proof).
+Here, we use it as a "run-time error" for cases where `hd` and `tl` fail on empty lists.
+
+## Using Dependent Types
+
+Next, we'll encode the length of the list into the type.
+Instead of declaring `IList` as a `Type`, we'll instead declare it as a `nat -> Type` to make it a dependent type.
+Recall that this means that client code has to provide a number in order to get a list type:
+
+    inductive IList : nat -> Type
+    | nil : IList 0
+    | cons {n : nat} : int -> IList n -> IList (nat.succ n)
+
+The curly braces after the `cons` constructor contain the type abstraction parameters. You can think of this as equivalent to the "big pi" we used in our formal language.
+Here's how you construct a list:
+
+    def somelist := IList.cons 5 IList.nil
+    check somelist
+
+Notice that we didn't write the `1` that forms the type of the list---even so, Lean tells us that `somelist` has the type `IList 1`.
+It uses type inference to automatically invent that parameter.
+
+Our library of operations also adds `{n : nat}` to take a length parameter in each case.
+Wherever we wrote `IList` above, we now append an argument:
+
+    def hd {n : nat}: IList (nat.succ n) -> int
+    | (IList.cons h t) := h
+
+    def tl {n : nat} : IList (nat.succ n) -> IList n
+    | (IList.cons h t) := t
+
+In both cases, Lean is smart enough to know that we no longer need a case for `IList.nil`!
+If we left that off of the definitions in the previous version, we would get a "non-exhaustive match" error.
+So long, `sorry`.
+
+Armed with these definitions, let's try some operations on lists:
+
+    eval hd somelist
+    check tl somelist
+    check tl (tl somelist)  -- Error!
+
+The `hd` and `tl` functions work using the same syntax as before---Lean can infer all the length parameters for us.
+But if we even try to *type-check* the expression that gets the tail of our one-element list twice, we get an error.
+The type system prevents us from ever running off the end of the list!
+
+If you want to explicitly provide those length parameters, lean has an @ expression that "reveals" the implicit parameters. For example, here's how we would explicitly provide length arguments to `hd` and `tl`:
+
+    eval @hd 0 somelist
+    check @tl 0 somelist
+
+We provide a 0 in both cases to indicate that we're passing in a list of length 1.
+Trying to provide any other number there results in a type error.
