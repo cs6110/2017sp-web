@@ -254,6 +254,8 @@
     date: May 8
     mon: true
     topic: Gradual typing, with special guest Fabian Muehlboeck
+    links:
+        notes: lecG.pdf
 -
     date: May 10
     assignments: A5 due
